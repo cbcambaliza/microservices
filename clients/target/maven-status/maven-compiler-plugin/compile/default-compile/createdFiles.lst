@@ -1,0 +1,4 @@
+com/cbcamba/clients/notification/NotificationRequest.class
+com/cbcamba/clients/fraud/FraudClient.class
+com/cbcamba/clients/notification/NotificationClient.class
+com/cbcamba/clients/fraud/FraudCheckResponse.class

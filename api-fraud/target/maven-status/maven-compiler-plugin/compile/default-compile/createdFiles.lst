@@ -1,0 +1,6 @@
+com/cbcamba/fraud/FraudCheckHistory.class
+com/cbcamba/fraud/FraudCheckService.class
+com/cbcamba/fraud/FraudApplication.class
+com/cbcamba/fraud/FraudCheckHistoryRepository.class
+com/cbcamba/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/cbcamba/fraud/FraudController.class
